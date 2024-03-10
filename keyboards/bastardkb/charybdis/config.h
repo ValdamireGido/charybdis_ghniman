@@ -99,3 +99,8 @@
 #        define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 #    endif // !__arm__
 #endif
+
+// custom settings
+#define CHARYBDIS_DRAGSCROLL_REVERSE_X
+
+#define TAPPING_TERM 160
