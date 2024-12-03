@@ -103,4 +103,4 @@
 // custom settings
 #define CHARYBDIS_DRAGSCROLL_REVERSE_X
 
-#define TAPPING_TERM 160
+#define TAPPING_TERM 150
