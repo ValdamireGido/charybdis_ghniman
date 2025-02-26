@@ -45,6 +45,9 @@ quantum/version.h
 /keyboards/**/kb.h
 /keyboards/**/kb.c
 
+/keyboards/*
+!/keyboards/bastardkb
+
 # Eclipse/PyCharm/Other IDE Settings
 *.iml
 .browse.VC.db*
