@@ -75,3 +75,9 @@
 #        define ENABLE_RGB_MATRIX_SOLID_SPLASH
 #        define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 #endif
+
+
+// custom settings
+#define CHARYBDIS_DRAGSCROLL_REVERSE_X
+
+#define TAPPING_TERM 150
