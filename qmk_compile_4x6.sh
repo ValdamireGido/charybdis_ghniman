@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # qmk json2c ghniman_charybdis.json > keyboards/bastardkb/charybdis/4x6/keymaps/ghniman/keymap.c && {
-util/docker_cmd.sh qmk json2c -o keyboards/bastardkb/charybdis/4x6/keymaps/ghniman/keymap.c ghniman_charybdis.json && {
+util/docker_cmd.sh qmk json2c -o keyboards/bastardkb/charybdis/4x6/keymaps/ghniman/keymap.c ghniman_charybdis_4x6.json && {
     echo "=== compiled json keymap to C code"
 } || {
     echo "!!! could not compile layout json to C"
